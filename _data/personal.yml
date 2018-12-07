@@ -1,12 +1,12 @@
 ---
-  name: "Your Name"
-  position: "Your Position"
-  company: "Your Company"
-  location: "Your City, Your State"
-  email: "you@somedomain.com"
-  gravatar: "http://api.adorable.io/avatars/300/abott@adorable.png"
+  name: "Daeyong Kim"
+  position: "Dev"
+  company: "Home"
+  location: "Seoul, Korea"
+  email: "kdy2353@gmail.com"
+  gravatar: ""
   bio: |
-    Your Short Bio goes here.
+    머리 싸매고 열심히 키보드 두들기고 있습니다.
   #activate the social buttons you like by removing the comment
   social:
     google:
@@ -30,7 +30,7 @@
     #   btnClass: "btn-linkedin"
     #   logo: "fa-linkedin"
     github:
-      url: "http://github.com/yourid"
+      url: "http://github.com/DaeyongKims"
       text: "/yourid"
       btnClass: "btn-github"
       logo: "fa-github"
